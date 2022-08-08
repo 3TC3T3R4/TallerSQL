@@ -1,0 +1,2 @@
+# TallerSQL
+SOFTKA U
